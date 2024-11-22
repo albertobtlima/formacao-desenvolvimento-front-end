@@ -1,3 +1,5 @@
+import { gerarDiaDaSemana } from "./gerarDiaDaSemana.js";
+
 export const editarItem = (elemento) => {
   let novoItem = prompt("Digite o novo nome do item: ");
 
@@ -12,5 +14,8 @@ export const editarItem = (elemento) => {
       elemento.querySelector(".checkbox-customizado").classList.add("checked");
       itemTextoAtualizado.style.textDecoration = "line-through";
     }
+
+    const dataDeCriacao = elemento.querySelector(".texto-data");
+    dataDeCriacao.textContent = gerarDiaDaSemana();
   }
 };
