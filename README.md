@@ -1,13 +1,17 @@
 # Formação - Desenvolvimento Front-end: cursos para criar aplicações web com HTML, CSS e JavaScript
 
-Essa formação é a segunda parte do plano de estudo **Full-stack JavaScript: do zero ao avançado**
-Essa formação é a segunda parte do plano de estudo **React: do zero ao avançado**
 
 **Carga horaria**: 61h
 
 **Cursos**: 8
 
 **Artigos**: 2
+
+Planos de estudo com essa formação:
+
+**Full-stack JavaScript: do zero ao avançado**
+
+**React: do zero ao avançado**
 
 ---
 
