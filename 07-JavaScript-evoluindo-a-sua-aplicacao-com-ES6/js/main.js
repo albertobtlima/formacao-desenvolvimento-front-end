@@ -38,7 +38,7 @@ async function manipularSubmissaoFormulario(event) {
   const autoriaSemEspacos = removerEspacos(autoria);
 
   if (!validarConteudo(conteudoSemEspacos)) {
-    alert("É permitido...");
+    alert("É permitido apenas letras e espaços com no minimo 10 caracteres");
   }
 
   if (!validarAutoria(autoriaSemEspacos)) {
