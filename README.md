@@ -33,4 +33,12 @@ Lista de Cursos:
 
 ### Node.js e terminal: dominando o ambiente de desenvolvimento front-end
 
+---
+
+## Projetos criados durante o curso:
+
+**Memoteca** [Acesse aqui](https://formacao-desenvolvimento-front-end.vercel.app/)
+
+A Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar, deletar, filtrar e favoritar pensamentos, incluindo informações como conteúdo, autoria e data.
+
 
